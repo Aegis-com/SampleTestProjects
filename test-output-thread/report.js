@@ -1,15 +1,15 @@
 $(document).ready(function() {
 CucumberHTML.timelineItems.pushArray([
   {
-    "id": "2de582b1-dfaa-48eb-a1c6-d4a4d576627f",
+    "id": "da70e068-4e29-401e-9447-0be2846558e0",
     "feature": "Login page feature",
     "scenario": "Login with Valid credentials",
-    "start": 1621937903047,
+    "start": 1622028430156,
     "group": 1,
     "content": "",
     "tags": "",
-    "end": 1621937962289,
-    "className": "failed"
+    "end": 1622028492824,
+    "className": "passed"
   }
 ]);
 CucumberHTML.timelineGroups.pushArray([

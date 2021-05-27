@@ -1,3 +1,6 @@
 C:\Users\995-222-0065\eclipse-workspace\com.fteNomination\src\test\java\FTE_Nomination_tool_Automation\com\fteNomination\AppTest.java
-C:\Users\995-222-0065\eclipse-workspace\com.fteNomination\src\test\java\Hooks\ApplicationHooks.java
-C:\Users\995-222-0065\eclipse-workspace\com.fteNomination\src\test\java\TestRunner\Runner.java
+C:\Users\995-222-0065\eclipse-workspace\com.fteNomination\src\test\java\StepDefinitions\LoginStep.java
+C:\Users\995-222-0065\eclipse-workspace\com.fteNomination\src\test\java\TestRunner\TestRunner.java
+C:\Users\995-222-0065\eclipse-workspace\com.fteNomination\src\test\java\PageObjectModel\LoginPages.java
+C:\Users\995-222-0065\eclipse-workspace\com.fteNomination\src\test\java\Hook\ApplicationHooks.java
+C:\Users\995-222-0065\eclipse-workspace\com.fteNomination\src\test\java\Util\BaseClass.java

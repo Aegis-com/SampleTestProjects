@@ -1,3 +1,6 @@
-Hooks\ApplicationHooks.class
+Hook\ApplicationHooks.class
+Util\BaseClass.class
+PageObjectModel\LoginPages.class
 FTE_Nomination_tool_Automation\com\fteNomination\AppTest.class
-TestRunner\Runner.class
+StepDefinitions\LoginStep.class
+TestRunner\TestRunner.class
